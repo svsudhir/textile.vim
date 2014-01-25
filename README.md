@@ -1,6 +1,6 @@
 #Textile Syntax Highlighting for Vim.
 
-Brings syntax highlighting to textile files in Vim.
+Syntax highlighting for textile files in Vim.
 
 ##Install
 
